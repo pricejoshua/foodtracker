@@ -13,6 +13,6 @@ Planning on this to be an android/ios app.
 - [ ] Grouping of accounts as a "house"
 
 ### Backlog
-- [ ] Recipie Lookup
+- [ ] Recipe Lookup
 - [ ] Database of how long produce lasts
 - [ ] Tagging food as "someone's"
