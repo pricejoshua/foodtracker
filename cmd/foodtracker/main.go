@@ -44,7 +44,7 @@ func main() {
 	// 	println("Error creating Supabase client: ", err)
 	// }
 
-	prepareDatabase()
+	// prepareDatabase()
 	seedDatabase()
 	getTodos()
 	mux := http.NewServeMux()
