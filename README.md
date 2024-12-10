@@ -1,5 +1,6 @@
 ## Food Tracker
 This is to solve the problem of people in my house buying things that we have already...
+
 Planning on this to be an android/ios app.
 
 Backend for the food tracker app
@@ -17,3 +18,4 @@ Backend for the food tracker app
 - [ ] Recipe Lookup
 - [ ] Database of how long produce lasts
 - [ ] Tagging food as "someone's"
+- [ ] Image recognition for "checking-in/out" food
