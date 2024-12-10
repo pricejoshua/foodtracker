@@ -2,6 +2,7 @@
 This is to solve the problem of people in my house buying things that we have already...
 Planning on this to be an android/ios app.
 
+Backend for the food tracker app
 
 ### Key Features
 - [ ] Receipt capture for bulk input
